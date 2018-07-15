@@ -1,1 +1,1 @@
-This is my first javascript application developed
+This is my first javascript application developed v2
